@@ -37,9 +37,9 @@ Collaborate with other interns and support the Program Manager in cybersecurity 
  
 ## 🗂️ Portfolio Repositories
  
-| Repository | Description |
+|  | Description |
 |---|---|
-| [coming-soon](#) | *(Add your repo here)* |
+| Regression Model using StandardScaler, PolynomialFeatures and HuberRegressor  | (https://github.com/KeylaAH/KeylaAH/blob/main/Copy_of_Regression_Model_KAH.ipynb) |
 | [coming-soon](#) | *(Add your repo here)* |
  
 ---
