@@ -39,8 +39,8 @@ Collaborate with other interns and support the Program Manager in cybersecurity 
  
 |  | Description |
 |---|---|
-| Regression Model using StandardScaler, PolynomialFeatures and HuberRegressor  | (https://github.com/KeylaAH/KeylaAH/blob/main/Copy_of_Regression_Model_KAH.ipynb) |
-| [coming-soon](#) | *(Add your repo here)* |
+| Regression Model using StandardScaler, PolynomialFeatures and HuberRegressor  | https://github.com/KeylaAH/KeylaAH/blob/main/Copy_of_Regression_Model_KAH.ipynb |
+| Classification Model using StandardScaler, ImbPipeline, SVM and RadomizedSearchCV | https://github.com/KeylaAH/KeylaAH/blob/main/Classification_Model_KAH_version_4_just_svm.ipynb |
  
 ---
  
